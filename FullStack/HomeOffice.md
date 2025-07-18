@@ -21,3 +21,5 @@ Modelo para a Atividade:
 https://github.com/RodrigoBergenthal/JAVA/blob/main/src/Game/Quiz.java
 
 
+Sabado ja posto o de segunda
+
