@@ -1,5 +1,4 @@
 # HomeOffice do dia 26 de agosto
-Que legal, Rodrigo! Um desafio interativo com foco em orientação a objetos e herança pode ser uma ótima forma de engajar os alunos e reforçar os fundamentos de Java. Aqui vai uma proposta que mistura prática, criatividade e até um pouco de storytelling:
 
 ---
 
