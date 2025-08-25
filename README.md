@@ -1,5 +1,6 @@
 # HomeOffice do dia 26 de agosto
 
+entrega via pullRequest! lembrando quem nao fizer e falta pessoal! 
 ---
 
 ## 🧭 Desafio: "Museu da Programação — A Jornada do Java"
@@ -49,5 +50,18 @@ Imagine que os alunos são desenvolvedores contratados para criar o sistema de u
 - Abstração e encapsulamento
 - Interação via terminal
 
+
+MuseuJava/
+├── src/
+│   ├── museu/
+│   │   ├── Main.java
+│   │   ├── Visitante.java
+│   │   ├── Sala.java
+│   │   ├── SalaFundadores.java
+│   │   ├── SalaVersoes.java
+│   │   ├── SalaCuriosidades.java
+│   │   └── Interativa.java
+├── README.md
+└── .gitignore
 ---
 
